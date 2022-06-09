@@ -11,7 +11,7 @@
 @attribute patient_hla3 numeric
 @attribute patient_hla4 numeric
 @attribute patient_hla5 numeric
-@attribute cdc_result numeric
+@attribute cdc_result {0 , 1}
 @data
 '0','0','0','1','1','0','0','0','0','0','0','0',0
 '0','2','2','1','0','1','2','2','2','1','1','1',1
