@@ -1,0 +1,25 @@
+Date: 5/7/2022
+Time: 12:31
+Phone Number: +5586994952240
+Message: Hello World from python
+--------------------
+Date: 5/7/2022
+Time: 12:32
+Phone Number: +5586994952240
+Message: Hello World from python
+--------------------
+Date: 5/7/2022
+Time: 12:34
+Phone Number: +5586994952240
+Message: Hello World from python
+--------------------
+Date: 5/7/2022
+Time: 12:50
+Phone Number: +5586994952240
+Message: Hello World from python
+--------------------
+Date: 5/7/2022
+Time: 12:53
+Phone Number: +5586994952240
+Message: Hello World from python
+--------------------
